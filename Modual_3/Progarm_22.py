@@ -1,3 +1,4 @@
+
 n =int(input("Enter number of tuple item with diffrent data is:"))
 list = []
 for i in range(n):
@@ -5,7 +6,13 @@ for i in range(n):
     list.append(x)
 
 print(tuple(list))
+tup = tuple(list)
 
-
-tuplex = ("tuple", False, 3.2, 1)
-print(tuplex)
+def convertTuple(tup):
+    str = ''
+    for item in tup:
+        str = str + item
+    return str
+ 
+str = convertTuple(tup)
+print(str)
