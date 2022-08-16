@@ -1,0 +1,19 @@
+ID : 102
+Name : paras
+Subject : Python
+---------------------
+
+ID : 105
+Name : pars
+Subject : Python
+---------------------
+
+ID : 201
+Name : puio
+Subject : kjjkds
+---------------------
+
+ID : 150
+Name : Payshhjh
+Subject : kshdh
+---------------------

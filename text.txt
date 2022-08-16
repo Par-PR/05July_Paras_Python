@@ -1,5 +1,5 @@
 HI, i am paras pethani
-A text file is a computer file that is a kind of non-executable, digital file and has only text.
+A text file is a computer file that is a kind of non-executable , digital file and has only text.
 It can have numbers, letters, symbols, and/or a combination 
 but does not contain special formatting such as italic text, bold text, underline text, pictures, etc.
 A text file identifies with the .txt file extension in Microsoft Windows computer. 
