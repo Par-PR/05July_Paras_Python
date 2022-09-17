@@ -144,3 +144,8 @@ class Database:
             print(data)
         except Exception as e:
             print(e)
+
+
+
+se = Database()
+se.Update_Data()
